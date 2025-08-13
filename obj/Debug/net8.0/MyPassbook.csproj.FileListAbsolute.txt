@@ -1,0 +1,10 @@
+D:\CodeProjects\MyPassbook\MyPassbook\MyPassbook\obj\Debug\net8.0\MyPassbook.csproj.AssemblyReference.cache
+D:\CodeProjects\MyPassbook\MyPassbook\MyPassbook\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\CodeProjects\MyPassbook\MyPassbook\MyPassbook\obj\Debug\net8.0\MyPassbook.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeProjects\MyPassbook\MyPassbook\MyPassbook\obj\Debug\net8.0\MyPassbook.AssemblyInfoInputs.cache
+D:\CodeProjects\MyPassbook\MyPassbook\MyPassbook\obj\Debug\net8.0\MyPassbook.AssemblyInfo.cs
+D:\CodeProjects\MyPassbook\MyPassbook\MyPassbook\obj\Debug\net8.0\MyPassbook.csproj.CoreCompileInputs.cache
+D:\CodeProjects\MyPassbook\MyPassbook\MyPassbook\obj\Debug\net8.0\MyPassbook.MvcApplicationPartsAssemblyInfo.cache
+D:\CodeProjects\MyPassbook\MyPassbook\MyPassbook\obj\Debug\net8.0\MyPassbook.RazorAssemblyInfo.cache
+D:\CodeProjects\MyPassbook\MyPassbook\MyPassbook\obj\Debug\net8.0\MyPassbook.RazorAssemblyInfo.cs
+D:\CodeProjects\MyPassbook\MyPassbook\MyPassbook\obj\Debug\net8.0\MyPassbook.sourcelink.json
